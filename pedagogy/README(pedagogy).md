@@ -69,7 +69,7 @@ Complete the following table with details of the various tasks and assessment qu
 | **1**      | Student will be able to recall the concept of Stack using Recursion.                | Animation of stack seen by student.         | How to perform push and pop operation on to the stack.      |
 | **2**      | Student will be able to describe the concept of Tower of Hanoi.                     | Three disk puzzle (Move one disk at a time) | How many moves are required for a three disk puzzle?        |
 | **3**      | Student will implement the concept of Tower of Hanoi using Animation.               | Smaller disk place on the larger disk.      | Can the larger disk place on the smaller disk? (True/False) |
-| **4**      | Student will be able to analyze the concept of Stack, Recursion and Tower of Hanoi. | Smaller disk place on the larger disk.****  | Can we perform Tower of Hanoi without recursion?            |
+| **4**      | Student will be able to analyze the concept of Stack, Recursion and Tower of Hanoi. | Smaller disk place on the larger disk.  | Can we perform Tower of Hanoi without recursion?            |
 
 (You can add more rows. Assessment Questions to all the Learning Objective should be met.)
 
