@@ -31,9 +31,9 @@
 
 <!--[if !supportLists]-->2.1<!--[endif]--> Tower of Hanoi is a mathematical puzzle where we have three rods and n disks.
 
-#### 3. Learning Objectives:(write in the table below)
+#### 3. Learning Objectives:
 
-Write Learning Objectives that can be achieved using virtual labs and the respective cognitive level, & action verbs.
+
 
 | **S. No.** | **Learning Objective**                                                              | **Cognitive Level** | **Action Verb** |
 | ---------- | ----------------------------------------------------------------------------------- | ------------------- | --------------- |
@@ -42,7 +42,7 @@ Write Learning Objectives that can be achieved using virtual labs and the respec
 | **3**      | Student will implement the concept of Tower of Hanoi using Animation.               | Apply               | Identify        |
 | **4**      | Student will be able to analyze the concept of Stack, Recursion and Tower of Hanoi. | Analyze             | Examine         |
 
-(You can add more rows.)
+
 
 **4. Instructional Strategy:**
 
@@ -71,7 +71,7 @@ Complete the following table with details of the various tasks and assessment qu
 | **3**      | Student will implement the concept of Tower of Hanoi using Animation.               | Smaller disk place on the larger disk.      | Can the larger disk place on the smaller disk? (True/False) |
 | **4**      | Student will be able to analyze the concept of Stack, Recursion and Tower of Hanoi. | Smaller disk place on the larger disk.  | Can we perform Tower of Hanoi without recursion?            |
 
-(You can add more rows. Assessment Questions to all the Learning Objective should be met.)
+
 
 #### 6. Simulator Interactions:
 
@@ -84,6 +84,6 @@ Complete the following table with details of the various tasks and assessment qu
 | **3**       | Student will click on play with 7 disks tab | Simulator will let the student solve the puzzle for 7 disks                                                                     | This will make the student understand about the algorithm more clearly. |
 | **4**       | Click drag and drop button on the simulator | Simulator show drag and drop button                                                                                             | To assess the concept of Tower of Hanoi                                 |
 
-(You can add more rows.)
+
 
 
