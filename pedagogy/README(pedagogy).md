@@ -2,7 +2,7 @@
 <p align="center">
 <br>
 <br>
-<b> Experiment:Tower of Hanoi <a name="top"></a> <br>
+<b> Experiment: Tower of Hanoi <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Information Technology
