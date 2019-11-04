@@ -50,7 +50,7 @@ Write Learning Objectives that can be achieved using virtual labs and the respec
 
 **4.2 Assessment Method: Formative Assessment**
 
-**4.3 Description of sections:
+4.3 Description of sections:
 
 <!--[if !supportLists]-->4.3.1<!--[endif]--> Student will be able to recall the concept of Stack using Recursion.
 
@@ -58,9 +58,9 @@ Write Learning Objectives that can be achieved using virtual labs and the respec
 
 <br><!--[if !supportLists]-->4.3.3<!--[endif]--> Student will implement the concept of Tower of Hanoi using Animation.</br>
 
-<br><!--[if !supportLists]-->4.3.4<!--[endif]--> Student will be able to analyze the concept of Stack, Recursion and Tower of Hanoi.</br>**
+<br><!--[if !supportLists]-->4.3.4<!--[endif]--> Student will be able to analyze the concept of Stack, Recursion and Tower of Hanoi.</br>
 
-#### 4. Task & Assessment Questions:
+#### 5. Task & Assessment Questions:
 
 Complete the following table with details of the various tasks and assessment questions you will give to the students.
 
@@ -73,7 +73,7 @@ Complete the following table with details of the various tasks and assessment qu
 
 (You can add more rows. Assessment Questions to all the Learning Objective should be met.)
 
-#### 4. Simulator Interactions:
+#### 6. Simulator Interactions:
 
 **Complete the following table giving the details of the Simulator interactions.**
 
