@@ -44,21 +44,21 @@ Write Learning Objectives that can be achieved using virtual labs and the respec
 
 (You can add more rows.)
 
-**2. Instructional Strategy:**
+**4. Instructional Strategy:**
 
-**2.1 Instructional Strategy: Expository**
+**4.1 Instructional Strategy: Expository**
 
-**2.2 Assessment Method: Formative Assessment**
+**4.2 Assessment Method: Formative Assessment**
 
-**2.3 Description of sections:
+**4.3 Description of sections:
 
-<!--[if !supportLists]-->2.1<!--[endif]-->Student will be able to recall the concept of Stack using Recursion.
+<!--[if !supportLists]-->4.3.1<!--[endif]-->Student will be able to recall the concept of Stack using Recursion.
 
-<br><!--[if !supportLists]-->2.2<!--[endif]-->Student will be able to describe the concept of Tower of Hanoi.</br>
+<br><!--[if !supportLists]-->4.3.2<!--[endif]-->Student will be able to describe the concept of Tower of Hanoi.</br>
 
-<br><!--[if !supportLists]-->2.3<!--[endif]-->Student will implement the concept of Tower of Hanoi using Animation.</br>
+<br><!--[if !supportLists]-->4.3.3<!--[endif]-->Student will implement the concept of Tower of Hanoi using Animation.</br>
 
-<br><!--[if !supportLists]-->2.4<!--[endif]-->Student will be able to analyze the concept of Stack, Recursion and Tower of Hanoi.</br>
+<br><!--[if !supportLists]-->4.3.4<!--[endif]-->Student will be able to analyze the concept of Stack, Recursion and Tower of Hanoi.</br>
 
 #### 4. Task & Assessment Questions:
 
