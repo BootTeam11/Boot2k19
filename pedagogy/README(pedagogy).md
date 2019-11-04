@@ -29,7 +29,7 @@
 
 #### 2. About the Experiment:
 
-<!--[if !supportLists]-->1.<!--[endif]-->Tower of Hanoi is a mathematical puzzle where we have three rods and n disks.
+<!--[if !supportLists]-->2.1<!--[endif]-->Tower of Hanoi is a mathematical puzzle where we have three rods and n disks.
 
 #### 3. Learning Objectives:(write in the table below)
 
@@ -52,13 +52,13 @@ Write Learning Objectives that can be achieved using virtual labs and the respec
 
 **2.3 Description of sections:
 
-<!--[if !supportLists]-->1.<!--[endif]-->Student will be able to recall the concept of Stack using Recursion.
+<!--[if !supportLists]-->2.1<!--[endif]-->Student will be able to recall the concept of Stack using Recursion.
 
-<br><!--[if !supportLists]-->2.<!--[endif]-->Student will be able to describe the concept of Tower of Hanoi.</br>
+<br><!--[if !supportLists]-->2.2<!--[endif]-->Student will be able to describe the concept of Tower of Hanoi.</br>
 
-<br><!--[if !supportLists]-->3.<!--[endif]-->Student will implement the concept of Tower of Hanoi using Animation.</br>
+<br><!--[if !supportLists]-->2.3<!--[endif]-->Student will implement the concept of Tower of Hanoi using Animation.</br>
 
-<br><!--[if !supportLists]-->4.<!--[endif]-->Student will be able to analyze the concept of Stack, Recursion and Tower of Hanoi.</br>
+<br><!--[if !supportLists]-->2.4<!--[endif]-->Student will be able to analyze the concept of Stack, Recursion and Tower of Hanoi.</br>
 
 #### 4. Task & Assessment Questions:
 
