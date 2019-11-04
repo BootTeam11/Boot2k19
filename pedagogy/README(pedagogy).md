@@ -23,9 +23,9 @@
 
 #### 1. FOCUS AREA:
 
-<!--[if !supportLists]-->1.<!--[endif]-->Reinforcement of theoretical concept.
+<!--[if !supportLists]-->1.1<!--[endif]-->Reinforcement of theoretical concept.
 
-<br><!--[if !supportLists]-->2.<!--[endif]-->Experimentation</br>
+<br><!--[if !supportLists]-->1.2.<!--[endif]-->Experimentation</br>
 
 #### 2. About the Experiment:
 
